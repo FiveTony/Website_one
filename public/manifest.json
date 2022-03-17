@@ -1,6 +1,6 @@
 {
-  "short_name": "Web site",
-  "name": "My web site",
+  "short_name": "Smooth operator",
+  "name": "My React website",
   "icons": [
     {
       "src": "favicon.ico",
