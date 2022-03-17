@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8e55ad01.css","mappings":"AAAA,EACE,qBAAsB,CAGtB,+BACU,CAHV,QAAS,CACT,SAIF","sources":["App.css"],"sourcesContent":["* {\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n  font-family: \"Hubballi\",\n  sans-serif;\n\n}\n\n\n"],"names":[],"sourceRoot":""}
